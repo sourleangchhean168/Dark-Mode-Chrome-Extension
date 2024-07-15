@@ -14,7 +14,7 @@ Enable dark mode on any webpage with this Chrome extension!
 
 ### Chrome Web Store
 
-You can install the extension directly from the [Chrome Web Store]([https://chrome.google.com/webstore/detail/dark-mode-extension/your-extension-id](https://chromewebstore.google.com/detail/dark-mode-extension/eclmbghonmpmidmdinmeamidmcefnlab)).
+You can install the extension directly from the [Chrome Web Store](https://chromewebstore.google.com/detail/dark-mode-extension/eclmbghonmpmidmdinmeamidmcefnlab).
 
 ### Manual Installation
 
